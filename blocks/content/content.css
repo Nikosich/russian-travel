@@ -1,0 +1,17 @@
+.content {
+    display: flex;
+    max-width: calc(100% - 48px*2);
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: auto;
+    position: relative;
+  }
+@media screen and (max-width:1024px) {
+    .content {
+        max-width: 100%;
+        margin: 0;
+    }
+}
+

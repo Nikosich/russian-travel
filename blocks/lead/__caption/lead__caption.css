@@ -1,0 +1,8 @@
+.lead__caption { 
+    color:white;
+    margin-bottom: 0;
+    align-self: baseline;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+}
