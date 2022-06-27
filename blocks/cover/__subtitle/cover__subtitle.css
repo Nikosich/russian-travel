@@ -11,6 +11,12 @@
     text-align: center;
     z-index: 3;
 }
+@media screen and (max-width:690px) {
+  .cover__subtitle {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}
 @media screen and (max-width:425px) {
     .cover__subtitle {
     max-width: 288px;
