@@ -5,7 +5,7 @@
     column-gap: 40px;
     row-gap: 48px;
     margin: 0;
-    padding: 0 100px 0 100px;
+    justify-content: center;
     grid-auto-flow: dense;
     margin-top: 80px;
 }
