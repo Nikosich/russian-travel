@@ -4,4 +4,4 @@
 ## Технологии 
 В проекте реализованы резиновые блоки, медиазапросы, технологии флексбокс верстки. 
 ## Ссылка проекта на Git Pages
-[https://github.com/Nikosich/russian-travel](https://nikosich.github.io/russian-travel/)
+https://nikosich.github.io/russian-travel/
