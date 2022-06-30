@@ -7,6 +7,13 @@
     word-wrap:normal;
     width: 100%;
 }
+
+.place__text-paragraph:first-of-type {
+    margin-bottom: 25px;
+}
+.place__text-paragraph:last-of-type{
+  margin-bottom: 0;
+}
 @media screen and (max-width:768px) {
   .place__text-paragraph {
     font-size: 16px;
