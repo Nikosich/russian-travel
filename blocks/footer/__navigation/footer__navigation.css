@@ -1,4 +1,4 @@
-.footer__links {
+.footer__navigation {
     display: flex;
     list-style: none;
     margin: 0;
@@ -6,8 +6,9 @@
     flex-wrap: wrap;
 }
 @media screen and (max-width: 690px) {
-    .footer__links {
+    .footer__navigation {
         width: calc(100% - 8%);
         flex-direction: column;
     }
 }
+

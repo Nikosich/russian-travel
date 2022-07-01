@@ -8,6 +8,12 @@
     color:white;
     width: 100%;
 }
+@media screen and (max-width:768px) {
+  .intro__title {
+  font-weight: 900;
+  margin-bottom: 40px;
+  }
+}
 @media screen and (max-width:690px) {
   .intro__title {
   font-weight: 900;

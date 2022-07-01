@@ -10,12 +10,12 @@
 }
 @media screen and (max-width:768px) {
     .intro {
-    align-self: center;
-    padding: 88px 24px 24px 24px;
+    max-width: 720px;
+    padding: 88px 24px 0 24px;
     }
 }
 @media screen and (max-width:425px) {
     .intro {
-    padding: 80px 16px 16px 16px;
+    padding: 64px 16px 0 16px;
     }
 }

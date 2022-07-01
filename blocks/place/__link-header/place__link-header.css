@@ -1,4 +1,6 @@
 .place__link-header {
+    margin:0;
+    margin-bottom: 12px;
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -6,4 +8,9 @@
     letter-spacing: 2px;
     color: #AAAAAA;
     text-transform: uppercase;
+}
+@media screen and (max-width:425px) {
+  .place__link-header {
+  margin-left: 16px;
+}
 }

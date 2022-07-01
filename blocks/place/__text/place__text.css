@@ -5,12 +5,12 @@
     flex-direction: column;
     flex-wrap: wrap;
     box-sizing: border-box;
+    border: 2ps solid red;
 }
 
 @media screen and (max-width:425px) {
     .place__text {
         margin-right: 16px;
         margin-left: 16px;
-        margin-bottom: 32px;
     }
 }

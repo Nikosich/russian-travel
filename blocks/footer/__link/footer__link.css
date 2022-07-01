@@ -14,3 +14,8 @@
         line-height: 24px;
     }
 }
+@media screen and (max-width:690px) {
+  .footer__link:last-of-type {
+    margin-bottom: 48px;
+  }
+}
